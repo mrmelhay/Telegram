@@ -1,4 +1,4 @@
-## TelegramUz messenger for Android
+## TelegramUz messenger for Android an UNOFFICIAL client for Telegram
 
 This is an UNOFFICIAL app that uses [Telegram's API](https://core.telegram.org/api)
 
@@ -31,4 +31,4 @@ Import the root folder into your IDE (tested on Android Studio), then run projec
 
 ### Localization
 
-We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
+We moved all translations to https://www.transifex.com/nisd/telegramuz/. Please use it.
